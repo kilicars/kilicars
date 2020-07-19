@@ -4,6 +4,9 @@
 
 ![Sena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kilicars&show_icons=true)
 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sena-k%C4%B1l%C4%B1%C3%A7arslan-2370884/)
+- 😄 Pronouns: She/Her
+
 <!--
 **kilicars/kilicars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
