@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fkilicars.kilicars%2Freadme)
+
 <!--
 **kilicars/kilicars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
