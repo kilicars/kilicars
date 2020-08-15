@@ -10,6 +10,8 @@
 
 ![Sena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kilicars&show_icons=true)
 
+![Sena's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kilicars&hide_langs_below=1&show_icons=true)
+
 ## 🧠 Know / Using
 
 <img src="https://github.com/github/explore/blob/master/topics/aspnet/aspnet.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/azure/azure.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/bootstrap/bootstrap.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png?raw=true" height="32" />  <img src="https://github.com/github/explore/blob/master/topics/dotnet/dotnet.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/nuget/nuget.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/react/react.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/redis/redis.png?raw=true" height="32" />  <img src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/mongodb/mongodb.png?raw=true" height="32" /> 
